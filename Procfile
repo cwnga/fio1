@@ -1,1 +1,1 @@
-web: mojito start
+web: node server.js
